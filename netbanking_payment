@@ -1,0 +1,8 @@
+Class netbanking_payment
+{
+public static void main (String []args)
+{
+system.out.println("Netbanking");
+}
+}
+
